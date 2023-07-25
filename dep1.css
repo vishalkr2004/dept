@@ -10,3 +10,6 @@
 .dept button{
     flex:1;
 }
+.dept .div button{
+    flex:1;
+}
