@@ -1,0 +1,12 @@
+.dept{
+    display:grid;
+    margin:20px;
+}
+
+.head h1{
+    justify-content: center;
+}
+
+.dept button{
+    flex:1;
+}
